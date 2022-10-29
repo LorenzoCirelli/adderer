@@ -1,0 +1,10 @@
+aos[
+    css = "true",
+    {
+        link : "https://unpkg.com/aos@2.3.1/dist/aos.css",
+    }
+    js = "true"
+    {
+        link : "https://unpkg.com/aos@2.3.1/dist/aos.js",
+    }
+]
